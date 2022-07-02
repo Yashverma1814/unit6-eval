@@ -1,0 +1,8 @@
+.cardWrapper{
+    width: 90%;
+    padding-left: 5%;
+    padding-right:5% ;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 1%;
+}

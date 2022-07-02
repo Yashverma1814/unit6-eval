@@ -1,0 +1,21 @@
+.nav{
+    display: grid;
+    grid-template-columns: auto auto;
+    padding: 1rem;
+    border: 0.1px solid gainsboro;
+    margin-top: 1rem;
+    margin-bottom: 4rem;
+}
+.booking{
+    text-align: end;
+}
+.home>a{
+    text-decoration: none;
+    margin: 2rem;
+    padding: 2rem;
+}
+.booking>a{
+    text-decoration: none;
+    margin: 2rem;
+    padding: 2rem;
+}
