@@ -8,9 +8,7 @@ import { Booking } from './Pages/Booking';
 function App() {
   return (
     <div>
-        {/* <Navbar /> */}
-        {/* <Card /> */}
-        {/* <Home /> */}
+        <Home />
         <Booking />
     </div>
   );
